@@ -86,11 +86,11 @@ The script relies on two core scientific computing packages in Python:
 Here you can display the images you are comparing and the resulting similarity score.
 
 ### Image 1: Jaguar
-*(Place your first image in an `assets` folder and link it here)*
+
 ![Image 1](./jaguar.jpg)
 
 ### Image 2: Cheetah
-*(Place your second image in an `assets` folder and link it here)*
+
 ![Image 2](./cheetah.jpg)
 
 ### Similarity Score
