@@ -87,14 +87,16 @@ Here you can display the images you are comparing and the resulting similarity s
 
 ### Image 1: Jaguar
 
-![Image 1](./jaguar.jpg)
+![Image 1](./jagur.jpg)
 
 ### Image 2: Cheetah
 
-![Image 2](./cheetah.jpg)
+![Image 2](./cheeta.jpg)
 
 ### Similarity Score
 
 The script will print the cosine similarity to the console.
 
 **Result:**
+
+Cosine similarity between the two images: 0.39314574971377114
