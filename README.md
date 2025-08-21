@@ -87,11 +87,11 @@ Here you can display the images you are comparing and the resulting similarity s
 
 ### Image 1: Jaguar
 *(Place your first image in an `assets` folder and link it here)*
-![Image 1](./assets/jaguar.jpg)
+![Image 1](./jaguar.jpg)
 
 ### Image 2: Cheetah
 *(Place your second image in an `assets` folder and link it here)*
-![Image 2](./assets/cheetah.jpg)
+![Image 2](./cheetah.jpg)
 
 ### Similarity Score
 
